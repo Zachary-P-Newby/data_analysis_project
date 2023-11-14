@@ -1,0 +1,11 @@
+Unique Requirements & Stretch Challenges
+Write software to analyze a set of data to answer two questions about that data as detailed below:
+Find a free dataset that interests you.
+
+Identify the two questions about the dataset on your own. You might change your questions after you explore the data further.
+
+Write a program in any programming language using a statistics library (e.g. R or Python Pandas) to analyze the dataset and provide an answer to your questions.
+
+You must demonstrate the ability to do one or more of the following to achieve each answer: filter, sort, aggregate (sum, average, count), or data conversion.
+
+While there is no right or wrong answer, your answer should be justified by your analysis.

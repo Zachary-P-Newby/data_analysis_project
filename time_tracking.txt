@@ -8,3 +8,13 @@
     Determined questions for project
     researched what data science is,
     and worked on filling out README file
+
+
+11/14/23
+25 Minutes
+    Decided Lbraries
+    Finsihed project folder set up and Updating python installations
+    Researching pandas
+< 25 Minutes
+'Unistalle anacond navigator
+Studied Pandas documentation
