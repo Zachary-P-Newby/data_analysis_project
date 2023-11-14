@@ -1,0 +1,1 @@
+print('Hello world, do you like penguins?')

@@ -1,0 +1,3 @@
+Create program that analyzes data, and answers the two questions using pandas
+Create graphs using matplot lib
+Display results in program using tkinter?
