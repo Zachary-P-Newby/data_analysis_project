@@ -18,3 +18,93 @@
 < 25 Minutes
 'Unistalle anacond navigator
 Studied Pandas documentation
+
+24 Minutes
+    read pandas docs
+    practiced pandas functions
+    solved file path issue
+> 25 inutes
+    Read Pandas docs
+
+11/15/23
+~26 Minutes
+    Read pandas docs on using matplotlib with pandas
+    Practice
+
+~26 Minutes
+    Practiced using matplotlib and pandas on penguins dataset
+
+27 minutes and 30 seconds
+    Matplotlib piechart reading and practice
+
+11/17/23
+25 mins
+    Planning
+    Practice
+    Created:
+        penguni_graph_expiriments.py
+        analysis.py
+        calc_total_populations()
+25 mins
+    Studied matplotlib documentation - quicstart guide
+    practiced matplotlib
+
+25 mins
+    continued matplotlib study and practice
+    created:
+        matplotlib_practice.py
+        graph_populations() - maybe make nested func of calc_total_populations?
+
+35 minutes
+    Figures out how to get the average (median) lengths of flippers for each species - filter and aggregate
+
+25 minutes
+    Practiced dataframe.filter function and started practicing dataframe.loc function
+
+
+11/20/23
+25 minutes
+    review/warmup
+    Looked for bill length and depth correlations using the scatter plots from matplotlib for practice
+    worked on filtering out penguins with longer than average
+    Question - should average flipper length be calculated using measurement from outside sources?
+25 Minutes
+    Studied pandas documentation
+
+25 minutes
+    studied sorting pandas dataframes
+    renamed pd_dataframe_graphing_practice.py to pd_dataframe_practice.py
+    sorting practice and numpy rand side track
+
+25 minutes
+    sorting practice
+    I think maybe I should watch a tutorial
+
+10 minutes
+    penguin sorting expiriments
+
+Current total:
+8.4 hours
+
+11/22/23
+
+25 minutes
+    Changed question 1 from "1. On which of the three islands (Dream, Biscoe, and Torgenson) were penguins with long flippers
+    (greater than the average length for the species - chinstrap, gentoo, and adelie) most common?"
+
+    to
+    "1. On which of the three islands (Dream, Biscoe, and Torgenson) were Adelie penguins with long flippers
+    (greater than the average length for the species) most common?"
+
+    as gentoo penguins are only found on Biscoe, and chinstraps only on Dream
+
+    Planning, graphin expiriments
+21 minutes
+    Graphing pracitce
+
+11.25.23
+
+25 minutes
+    review
+    sorting and reordring indexes
+    figuring out how to answer question 1

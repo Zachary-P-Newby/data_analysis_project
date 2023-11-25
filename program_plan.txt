@@ -1,3 +1,5 @@
 Create program that analyzes data, and answers the two questions using pandas
 Create graphs using matplot lib
 Display results in program using tkinter?
+
+ALtenratively, create presentation - pdf? that displays graphs and shows how to reproduce them with code, a sep-bystep walktrhough of the program used.

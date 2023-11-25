@@ -31,6 +31,10 @@ This program was created in the python programming language, and uses the pandas
 * [Palmer Penguin Dataset](https://www.kaggle.com/datasets/ashkhagan/palmer-penguins-datasetalternative-iris-dataset/)
 * [Data Science — Wikipedia ](https://en.wikipedia.org/wiki/Data_science)
 * [pandas Overview - pandas Docs](https://pandas.pydata.org/docs/getting_started/overview.html)
+* [data-titanic.csv source](https://raw.githubusercontent.com/pandas-dev/pandas/main/doc/data/titanic.csv)
+* [Air Quality Practice File Source](https://github.com/pandas-dev/pandas/blob/main/doc/data/air_quality_no2.csv)
+* [List Comprehensions Review](https://www.w3schools.com/python/python_lists_comprehension.asp)
+* [Matplotlib Pie chart tutorial](https://pythonguides.com/matplotlib-pie-chart/)
 * [Web Site Name](http://url.link.goes.here)
 * [Web Site Name](http://url.link.goes.here)
 * [Web Site Name](http://url.link.goes.here)
@@ -41,3 +45,5 @@ This program was created in the python programming language, and uses the pandas
 * Item 1
 * Item 2
 * Item 3
+
+* [Web Site Name](http://url.link.goes.here)
