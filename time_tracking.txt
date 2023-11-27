@@ -145,3 +145,8 @@ Fix mean and median discrepancies in question 1 functions
     Final bug testing
     Continue making presentation doc
         COmpleted section on question 1
+
+30+ minutes
+    Finalize report
+    Create video
+    Submit project
