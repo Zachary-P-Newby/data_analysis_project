@@ -108,3 +108,40 @@ Current total:
     review
     sorting and reordring indexes
     figuring out how to answer question 1
+
+25 minutes
+    figured out how to create and lable bar graph displaying total number of penguins with long flippers for each island - _graph_long_flipper_adelies_pops
+    code refactor for calc_population_totals() and graph_populations()
+
+34 Minutes
+    Worked on _graph_adelies_per_island()
+27 minutes
+    Worked on annotating _graph_adelies_per_island()
+
+Split population graphs into two
+
+25 minutes
+    Reworked graph_total_populations() to give seperate bar graphs for species and island - Mom's suggestion
+    Added colors to graphs
+    Started planning question 2, slight rework
+
+50 minutes
+    Created graphs and measurements for question 2, started work on functions calculating average bill lengths and depts
+
+To do:
+Fix mean and median discrepancies in question 1 functions
+
+11/27/23
+
+25 Minutes
+    Fixed mean and median discrepancies
+    created presentaion document and began writing it out.
+
+~30 Minutes
+    Continued creating presentation doc
+    displayed population agraphs and worked on answering question 1
+
+25 minutes
+    Final bug testing
+    Continue making presentation doc
+        COmpleted section on question 1

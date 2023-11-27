@@ -67,5 +67,5 @@ fig, ax = plt.subplots(3,figsize=(3,4),layout="constrained",)
 #graph one of the sub plots
 ax[0].plot([1,2,5,4],[5,4,2,1])
 
-ax[1].plot.bar()
+
 plt.show()
